@@ -53,8 +53,6 @@ This repository contains Python code for conducting exploratory data analysis (E
 
 `frequently_purchased_items.py`: Python script to discover frequently co-purchased items.
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
